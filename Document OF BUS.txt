@@ -1,0 +1,11 @@
+REQUIREMENTS FOR BUS RESERVATION
+1. INTRODUCTION
+An bus reservation system is used to design and automate for the operations to reserve a bus seat
+2. PURPOSE
+The main purpose of bus reservation is to make customers easier to reserve a ticket in online to make them easy to search,for view, and get details about cancelation and reservation.
+3. SCOPE
+This system is used by both general public and professional staff.      The main objective is to provide reservation of bus to users
+4.Functional Requirements.
+Bus availability , Bus Booking , User interface
+5.NON-FUNCTIONAL REQUIREMENTS
+6.PERFORMANCE REQUIREMENTS
